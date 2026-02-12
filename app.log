@@ -1,0 +1,132 @@
+2026-01-22 11:52:08,796 - INFO - Feature engineering and train-test split completed.
+2026-01-22 11:53:49,226 - INFO - Fetched 366 rows for bitcoin
+2026-01-22 11:53:51,712 - INFO - Fetched 366 rows for bitcoin
+2026-01-22 11:53:53,779 - INFO - Fetched 366 rows for bitcoin
+2026-01-22 11:53:55,635 - INFO - Fetched 366 rows for bitcoin
+2026-01-22 11:53:56,726 - INFO - Fetched 366 rows for bitcoin
+2026-01-22 11:53:59,360 - ERROR - API request failed: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=365
+2026-01-22 11:54:03,624 - ERROR - API request failed: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=365
+2026-01-22 11:54:03,910 - ERROR - API request failed: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=365
+2026-01-22 11:54:09,997 - ERROR - API request failed: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=365
+2026-01-22 11:54:11,894 - ERROR - API request failed: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=365
+2026-01-22 11:54:14,283 - ERROR - API request failed: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=365
+2026-01-22 11:54:17,577 - ERROR - API request failed: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=365
+2026-01-22 11:54:18,746 - ERROR - API request failed: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=365
+2026-01-22 11:54:22,880 - ERROR - API request failed: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=365
+2026-01-22 11:54:23,300 - ERROR - API request failed: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=365
+2026-01-22 11:54:24,811 - ERROR - API request failed: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=365
+2026-01-22 11:54:27,825 - ERROR - API request failed: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=365
+2026-01-22 11:54:30,657 - ERROR - API request failed: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=365
+2026-01-22 11:54:35,536 - ERROR - API request failed: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=365
+2026-01-22 11:59:28,053 - INFO - Fetched 366 rows from CoinGecko for bitcoin
+2026-01-22 11:59:31,065 - INFO - Fetched 366 rows from CoinGecko for bitcoin
+2026-01-22 11:59:36,058 - INFO - Fetched 366 rows from CoinGecko for bitcoin
+2026-01-22 11:59:37,923 - INFO - Fetched 366 rows from CoinGecko for bitcoin
+2026-01-22 11:59:39,290 - INFO - Fetched 366 rows from CoinGecko for bitcoin
+2026-01-22 11:59:41,895 - ERROR - CoinGecko failed: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=365
+2026-01-22 11:59:41,895 - INFO - Switching to Yahoo Finance fallback
+2026-01-22 11:59:44,078 - INFO - Fetched 364 rows from Yahoo Finance for bitcoin
+2026-01-22 11:59:44,096 - INFO - Feature engineering and train-test split completed.
+2026-01-22 11:59:51,725 - ERROR - CoinGecko failed: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=365
+2026-01-22 11:59:51,726 - INFO - Switching to Yahoo Finance fallback
+2026-01-22 11:59:51,948 - INFO - Fetched 364 rows from Yahoo Finance for bitcoin
+2026-01-22 12:00:35,420 - ERROR - CoinGecko failed: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=365
+2026-01-22 12:00:35,420 - INFO - Switching to Yahoo Finance fallback
+2026-01-22 12:00:35,789 - INFO - Fetched 364 rows from Yahoo Finance for bitcoin
+2026-01-22 12:00:39,111 - ERROR - CoinGecko failed: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=365
+2026-01-22 12:00:39,111 - INFO - Switching to Yahoo Finance fallback
+2026-01-22 12:00:39,311 - INFO - Fetched 364 rows from Yahoo Finance for bitcoin
+2026-01-22 12:01:07,224 - INFO - Fetched 366 rows from CoinGecko for bitcoin
+2026-01-22 12:01:09,938 - INFO - Fetched 366 rows from CoinGecko for bitcoin
+2026-01-22 12:01:11,524 - INFO - Fetched 366 rows from CoinGecko for bitcoin
+2026-01-22 12:01:13,191 - INFO - Fetched 366 rows from CoinGecko for bitcoin
+2026-01-22 12:01:14,685 - INFO - Fetched 366 rows from CoinGecko for bitcoin
+2026-01-22 12:01:17,564 - ERROR - CoinGecko failed: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=365
+2026-01-22 12:01:17,564 - INFO - Switching to Yahoo Finance fallback
+2026-01-22 12:01:18,223 - INFO - Fetched 364 rows from Yahoo Finance for bitcoin
+2026-01-22 12:01:18,229 - INFO - Feature engineering and train-test split completed.
+2026-01-22 12:01:20,615 - ERROR - CoinGecko failed: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=365
+2026-01-22 12:01:20,615 - INFO - Switching to Yahoo Finance fallback
+2026-01-22 12:01:20,775 - INFO - Fetched 364 rows from Yahoo Finance for bitcoin
+2026-01-22 12:01:22,751 - ERROR - CoinGecko failed: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=365
+2026-01-22 12:01:22,752 - INFO - Switching to Yahoo Finance fallback
+2026-01-22 12:01:22,972 - INFO - Fetched 364 rows from Yahoo Finance for bitcoin
+2026-01-22 12:01:25,335 - ERROR - CoinGecko failed: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=365
+2026-01-22 12:01:25,335 - INFO - Switching to Yahoo Finance fallback
+2026-01-22 12:01:25,518 - INFO - Fetched 364 rows from Yahoo Finance for bitcoin
+2026-01-22 12:21:50,127 - INFO - Fetched 366 rows from CoinGecko for bitcoin
+2026-01-22 12:21:51,410 - INFO - Fetched 366 rows from CoinGecko for bitcoin
+2026-01-22 12:21:52,861 - INFO - Fetched 366 rows from CoinGecko for bitcoin
+2026-01-22 12:21:52,868 - INFO - Feature engineering and train-test split completed.
+2026-01-22 12:21:55,454 - INFO - Fetched 366 rows from CoinGecko for bitcoin
+2026-01-22 12:21:56,628 - INFO - Fetched 366 rows from CoinGecko for bitcoin
+2026-01-22 12:21:57,761 - ERROR - CoinGecko failed: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=365
+2026-01-22 12:21:57,761 - INFO - Switching to Yahoo Finance fallback
+2026-01-22 12:21:58,136 - INFO - Fetched 365 rows from Yahoo Finance for bitcoin
+2026-01-22 12:21:58,682 - ERROR - CoinGecko failed: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=365
+2026-01-22 12:21:58,682 - INFO - Switching to Yahoo Finance fallback
+2026-01-22 12:21:58,905 - INFO - Fetched 365 rows from Yahoo Finance for bitcoin
+2026-01-22 12:21:59,574 - ERROR - CoinGecko failed: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=365
+2026-01-22 12:21:59,574 - INFO - Switching to Yahoo Finance fallback
+2026-01-22 12:21:59,803 - INFO - Fetched 365 rows from Yahoo Finance for bitcoin
+2026-01-22 12:22:04,088 - ERROR - CoinGecko failed: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=365
+2026-01-22 12:22:04,088 - INFO - Switching to Yahoo Finance fallback
+2026-01-22 12:22:04,476 - INFO - Fetched 365 rows from Yahoo Finance for bitcoin
+2026-01-22 12:27:07,876 - INFO - Fetched 366 rows from CoinGecko for bitcoin
+2026-01-22 12:27:16,667 - INFO - Fetched 366 rows from CoinGecko for bitcoin
+2026-01-22 12:27:18,068 - INFO - Fetched 366 rows from CoinGecko for bitcoin
+2026-01-22 12:27:18,984 - INFO - Fetched 366 rows from CoinGecko for bitcoin
+2026-01-22 12:27:21,035 - INFO - Fetched 366 rows from CoinGecko for bitcoin
+2026-01-22 12:27:22,403 - ERROR - CoinGecko failed: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=365
+2026-01-22 12:27:22,404 - INFO - Switching to Yahoo Finance fallback
+2026-01-22 12:27:23,573 - ERROR - CoinGecko failed: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=365
+2026-01-22 12:27:23,573 - INFO - Switching to Yahoo Finance fallback
+2026-01-22 12:27:23,740 - INFO - Fetched 365 rows from Yahoo Finance for bitcoin
+2026-01-22 12:27:23,742 - INFO - Fetched 365 rows from Yahoo Finance for bitcoin
+2026-01-22 12:27:23,809 - INFO - Feature engineering and train-test split completed.
+2026-01-22 12:27:25,297 - ERROR - CoinGecko failed: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=365
+2026-01-22 12:27:25,297 - INFO - Switching to Yahoo Finance fallback
+2026-01-22 12:27:25,564 - INFO - Fetched 365 rows from Yahoo Finance for bitcoin
+2026-01-22 12:27:26,854 - ERROR - CoinGecko failed: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=365
+2026-01-22 12:27:26,854 - INFO - Switching to Yahoo Finance fallback
+2026-01-22 12:27:27,088 - INFO - Fetched 365 rows from Yahoo Finance for bitcoin
+2026-01-22 12:27:27,683 - ERROR - CoinGecko failed: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=365
+2026-01-22 12:27:27,683 - INFO - Switching to Yahoo Finance fallback
+2026-01-22 12:27:27,949 - INFO - Fetched 365 rows from Yahoo Finance for bitcoin
+2026-01-22 12:27:28,011 - ERROR - CoinGecko failed: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=365
+2026-01-22 12:27:28,011 - INFO - Switching to Yahoo Finance fallback
+2026-01-22 12:27:28,191 - INFO - Fetched 365 rows from Yahoo Finance for bitcoin
+2026-01-22 12:27:29,659 - ERROR - CoinGecko failed: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=365
+2026-01-22 12:27:29,659 - INFO - Switching to Yahoo Finance fallback
+2026-01-22 12:27:29,852 - INFO - Fetched 365 rows from Yahoo Finance for bitcoin
+2026-01-22 12:27:37,138 - ERROR - CoinGecko failed: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=365
+2026-01-22 12:27:37,139 - INFO - Switching to Yahoo Finance fallback
+2026-01-22 12:27:37,369 - INFO - Fetched 365 rows from Yahoo Finance for bitcoin
+2026-01-22 12:29:23,532 - INFO - Fetched 366 rows from CoinGecko for bitcoin
+2026-01-22 12:29:23,600 - INFO - Fetched 366 rows from CoinGecko for bitcoin
+2026-01-22 12:29:25,063 - INFO - Fetched 366 rows from CoinGecko for bitcoin
+2026-01-22 12:29:27,146 - INFO - Fetched 366 rows from CoinGecko for bitcoin
+2026-01-22 12:29:28,917 - INFO - Fetched 366 rows from CoinGecko for bitcoin
+2026-01-22 12:29:30,243 - ERROR - CoinGecko failed: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=365
+2026-01-22 12:29:30,243 - INFO - Switching to Yahoo Finance fallback
+2026-01-22 12:29:31,624 - INFO - Fetched 365 rows from Yahoo Finance for bitcoin
+2026-01-22 12:29:33,009 - ERROR - CoinGecko failed: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=365
+2026-01-22 12:29:33,009 - INFO - Switching to Yahoo Finance fallback
+2026-01-22 12:29:33,225 - INFO - Fetched 365 rows from Yahoo Finance for bitcoin
+2026-01-22 12:29:36,269 - ERROR - CoinGecko failed: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=365
+2026-01-22 12:29:36,269 - INFO - Switching to Yahoo Finance fallback
+2026-01-22 12:29:36,585 - INFO - Fetched 365 rows from Yahoo Finance for bitcoin
+2026-01-22 12:29:36,592 - INFO - Feature engineering and train-test split completed.
+2026-01-22 12:29:38,099 - ERROR - CoinGecko failed: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=365
+2026-01-22 12:29:38,099 - INFO - Switching to Yahoo Finance fallback
+2026-01-22 12:29:38,448 - INFO - Fetched 365 rows from Yahoo Finance for bitcoin
+2026-01-22 12:29:41,045 - ERROR - CoinGecko failed: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=365
+2026-01-22 12:29:41,045 - INFO - Switching to Yahoo Finance fallback
+2026-01-22 12:29:41,318 - INFO - Fetched 365 rows from Yahoo Finance for bitcoin
+2026-01-22 12:29:44,007 - ERROR - CoinGecko failed: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=365
+2026-01-22 12:29:44,008 - INFO - Switching to Yahoo Finance fallback
+2026-01-22 12:29:44,231 - INFO - Fetched 365 rows from Yahoo Finance for bitcoin
+2026-02-11 19:19:55,045 - INFO - Fetched 366 rows from CoinGecko for bitcoin
+2026-02-11 19:20:44,792 - INFO - Fetched 366 rows from CoinGecko for bitcoin
+2026-02-11 19:20:48,997 - INFO - Fetched 366 rows from CoinGecko for bitcoin
+2026-02-11 19:20:49,194 - INFO - Fetched 366 rows from CoinGecko for bitcoin
